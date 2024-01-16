@@ -27,3 +27,7 @@ https://github.com/19070006040/hotelApp/assets/149877163/9c94468c-60f2-4204-9fed
 https://github.com/19070006040/hotelApp/assets/149877163/577c0553-d196-4fe4-8bb6-b67f1e53d250
 
 
+## Data Model
+
+![Data Model](https://github.com/19070006040/hotelApp/assets/149877163/f36d8175-dc25-4eab-9986-80d372101700)
+
