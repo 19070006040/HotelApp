@@ -10,3 +10,15 @@ Existing users can log in by clicking the 'Log In' button to avail themselves of
 registration and login screens, and their validations. Since the required features were more complex and detailed compared to previous projects, I struggled with these aspects, relying on YouTube videos and exploring 
 websites like Stack Overflow to find solutions. I also encountered difficulties during the deployment phase. I apologize as I couldn't deploy the project on PythonAnywhere due to errors encountered during my attempts. 
 Overall, it was an enjoyable project where I learned a lot.
+
+##Video:
+
+https://github
+
+https://github.com/19070006040/hotelApp/assets/149877163/d41b238a-3fe6-4b7e-9987-d6c65df3f9ab
+
+.com/19070006040/hotelApp/assets/149877163/e911ccc4-2ae4-45b3-8ef7-f022ea4bc4d8
+
+##Data model
+![Data Model](https://github.com/19070006040/hotelApp/assets/149877163/9f37f03a-eae6-4de1-b3c1-d025fc1637d3)
+
